@@ -16,3 +16,4 @@ http://stackoverflow.com/questions/2670158/mirroring-a-hg-project-from-bitbucket
 * download artifacts via aether to compare
 * upload sig file to nexus
 * alternative reporting format
+* demonstrate use of enforcer maven feature
